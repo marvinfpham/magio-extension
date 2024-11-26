@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Magio App Popup",
+  "version": "1.0",
+  "description": "Open Magio in a popup window.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "action": {
+    "default_popup": "https://yourusername.github.io/magio-extension/index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
